@@ -1,0 +1,27 @@
+{
+    "variants": {
+        "half=bottom": [ { "model": "half_slab_spruce", "weight": 20 },   
+                    { "model": "half_slab_spruce1", "weight": 12 }, 
+                    { "model": "half_slab_spruce2", "weight": 12 }, 
+                    { "model": "half_slab_spruce3", "weight": 12 }, 
+                    { "model": "half_slab_spruce4", "weight": 12 }, 
+                    { "model": "half_slab_spruce5", "weight": 12 },     
+                    { "model": "half_slab_spruce6", "weight": 12 }, 
+                    { "model": "half_slab_spruce7", "weight": 12 }, 
+                    { "model": "half_slab_spruce8", "weight": 12 },
+                    { "model": "half_slab_spruce9", "weight": 12 },
+                    { "model": "half_slab_spruce10", "weight": 12 }
+ ],
+        "half=top": [ { "model": "upper_slab_spruce", "weight": 20 },   
+                    { "model": "upper_slab_spruce1", "weight": 12 }, 
+                    { "model": "upper_slab_spruce2", "weight": 12 }, 
+                    { "model": "upper_slab_spruce3", "weight": 12 }, 
+                    { "model": "upper_slab_spruce4", "weight": 12 }, 
+                    { "model": "upper_slab_spruce5", "weight": 12 },     
+                    { "model": "upper_slab_spruce6", "weight": 12 }, 
+                    { "model": "upper_slab_spruce7", "weight": 12 }, 
+                    { "model": "upper_slab_spruce8", "weight": 12 },
+                    { "model": "upper_slab_spruce9", "weight": 12 },
+                    { "model": "upper_slab_spruce10", "weight": 12 } ]
+    }
+}

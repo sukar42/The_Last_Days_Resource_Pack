@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "half=bottom": [ { "model": "half_slab_jungle", "weight": 20 },                
+                    { "model": "half_slab_jungle1", "weight": 12 },     
+                    { "model": "half_slab_jungle2", "weight": 7 },   
+                    { "model": "half_slab_jungle3", "weight": 9 }, 
+                    { "model": "half_slab_jungle4", "weight": 4 } 
+       ],
+        "half=top": [ { "model": "upper_slab_jungle", "weight": 8 },                
+                    { "model": "upper_slab_jungle1", "weight": 5 },     
+                    { "model": "upper_slab_jungle2", "weight": 4 },   
+                    { "model": "upper_slab_jungle3", "weight": 2 }, 
+                    { "model": "upper_slab_jungle4", "weight": 2 }
+       ]
+    }
+}
+
