@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "blocks/hardened_clay_stained_yellow_top",
+        "side": "blocks/hardened_clay_stained_yellow"
+    }
+}

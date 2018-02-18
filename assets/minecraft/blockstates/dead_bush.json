@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": [ { "model": "dead_bush", "weight": 3 }, { "model": "dead_bush1", "weight": 3 } ]
+    }
+}

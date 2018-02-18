@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": [ { "model": "granite", "weight": 25 }, { "model": "granite1", "weight": 5 }, { "model": "granite2", "weight": 10 }, { "model": "granite3", "weight": 5 }, { "model": "granite4", "weight": 5 }, { "model": "granite5", "weight": 5 }, { "model": "granite6", "weight": 5 }, { "model": "granite7", "weight": 5 }, { "model": "granite8", "weight": 5 }  ]
+    }
+}

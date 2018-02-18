@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": [ { "model": "end_stone", "weight": 1000 }, { "model": "end_stone1", "weight": 1 } ]
+    }
+}
