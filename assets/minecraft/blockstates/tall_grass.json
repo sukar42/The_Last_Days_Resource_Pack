@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": [ { "model": "tall_grass", "weight": 25 }, { "model": "tall_grass", "weight": 3 } ]
+        "normal": [ { "model": "tall_grass", "weight": 25 }, { "model": "tall_grass1", "weight": 3 } ]
     }
 }
