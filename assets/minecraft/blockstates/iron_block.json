@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "normal": [ { "model": "iron_block", "weight": 5 }, { "model": "iron_block1", "weight": 5 }, 
-{ "model": "iron_block2", "weight": 5 }, 
-{ "model": "iron_block3", "weight": 5 }, 
-{ "model": "iron_block4", "weight": 5 } ]
-
-    }
-}
