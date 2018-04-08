@@ -2,3 +2,7 @@
 *.zip
 *.init
 *.ini
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
