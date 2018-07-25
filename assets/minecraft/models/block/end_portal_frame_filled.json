@@ -1,10 +1,10 @@
 {
     "textures": {
-        "particle": "blocks/endframe_side",
-        "bottom": "blocks/end_portail_bottom",
-        "top": "blocks/endframe_top",
-        "side": "blocks/endframe_side",
-        "eye": "blocks/endframe_eye"
+        "particle": "block/endframe_side",
+        "bottom": "block/end_portail_bottom",
+        "top": "block/endframe_top",
+        "side": "block/endframe_side",
+        "eye": "block/endframe_eye"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

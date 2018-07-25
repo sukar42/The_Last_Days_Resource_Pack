@@ -1,7 +1,7 @@
 {
     "parent": "block/carpet",
     "textures": {
-        "particle": "blocks/carpet_purple",
-        "wool": "blocks/carpet_purple"
+        "particle": "block/carpet_purple",
+        "wool": "block/carpet_purple"
     }
 }
