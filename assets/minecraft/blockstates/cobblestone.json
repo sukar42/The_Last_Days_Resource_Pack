@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": [ { "model": "cobblestone", "weight": 25 }, { "model": "cobblestone1", "weight": 10 } ]
+        "": [ { "model": "block/cobblestone", "weight": 25 }, { "model": "block/cobblestone1", "weight": 10 } ]
     }
 }

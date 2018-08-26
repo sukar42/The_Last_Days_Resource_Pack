@@ -1,11 +1,11 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "blocks/redstone_dust_cross",
-        "cross": "blocks/redstone_dust_cross",
-        "crossoverlay": "blocks/redstone_dust_cross_overlay",
-        "line": "blocks/redstone_dust_line",
-        "lineoverlay": "blocks/redstone_dust_line_overlay"
+        "particle": "block/redstone_dust_cross",
+        "cross": "block/redstone_dust_cross",
+        "crossoverlay": "block/redstone_dust_cross_overlay",
+        "line": "block/redstone_dust_line",
+        "lineoverlay": "block/redstone_dust_line_overlay"
     },
     "elements": [
         {   "from": [ 5, 0.25, 0 ],

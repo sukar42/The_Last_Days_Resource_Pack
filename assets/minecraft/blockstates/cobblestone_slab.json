@@ -1,6 +1,7 @@
 {
     "variants": {
-        "half=bottom": [ { "model": "half_slab_cobblestone", "weight": 25 }, { "model": "half_slab_cobblestone1", "weight": 5 } ],
-        "half=top": [ { "model": "upper_slab_cobblestone", "weight": 25 }, { "model": "upper_slab_cobblestone1", "weight": 5 } ]
+        "type=bottom": [ { "model": "block/half_slab_cobblestone", "weight": 25 }, { "model": "block/half_slab_cobblestone1", "weight": 5 } ],
+        "type=top": [ { "model": "block/upper_slab_cobblestone", "weight": 25 }, { "model": "block/upper_slab_cobblestone1", "weight": 5 } ],
+		"type=double": { "model": "block/cobblestone" }
     }
 }

@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": [ { "model": "pink_tulip", "weight": 3 }, { "model": "pink_tulip1", "weight": 3 } ]
+        "": [ { "model": "block/pink_tulip", "weight": 3 }, { "model": "block/pink_tulip1", "weight": 3 } ]
     }
 }
