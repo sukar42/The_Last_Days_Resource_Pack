@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": [ { "model": "dandelion", "weight": 3 }, { "model": "dandelion1", "weight": 3 }, { "model": "dandelion2", "weight": 3 }, { "model": "dandelion3", "weight": 3 }, { "model": "dandelion4", "weight": 3 } ]
+        "": [ { "model": "block/dandelion", "weight": 3 }, { "model": "block/dandelion1", "weight": 3 }, { "model": "block/dandelion2", "weight": 3 }, { "model": "block/dandelion3", "weight": 3 }, { "model": "block/dandelion4", "weight": 3 } ]
     }
 }

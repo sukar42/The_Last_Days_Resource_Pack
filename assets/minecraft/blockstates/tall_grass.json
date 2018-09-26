@@ -1,5 +1,6 @@
 {
     "variants": {
-        "normal": [ { "model": "tall_grass", "weight": 25 }, { "model": "tall_grass1", "weight": 3 } ]
+        "half=lower": { "model": "block/tall_grass_bottom" },
+        "half=upper":    { "model": "block/tall_grass_top" }
     }
 }

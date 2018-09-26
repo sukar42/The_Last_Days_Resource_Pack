@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "end": "blocks/hardened_clay_stained_cyan_top",
-        "side": "blocks/hardened_clay_stained_cyan"
+        "end": "block/hardened_clay_stained_cyan_top",
+        "side": "block/hardened_clay_stained_cyan"
     }
 }
